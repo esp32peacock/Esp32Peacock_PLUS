@@ -33,3 +33,6 @@ brunswick99999@gmail.com
 
 # ScreenShots
 <img src='https://github.com/esp32peacock/Esp32Peacock_PLUS/blob/master/ScreenShots/Screenshot_2019-12-20-23-33-31-98.jpg?raw=true' width='200px'><img src='https://github.com/esp32peacock/Esp32Peacock_PLUS/blob/master/ScreenShots/Screenshot_2019-12-20-23-34-29-01.jpg?raw=true' width='200px'><img src='https://github.com/esp32peacock/Esp32Peacock_PLUS/blob/master/ScreenShots/Screenshot_2019-12-20-23-36-18-93.jpg?raw=true' width='200px'><img src='https://github.com/esp32peacock/Esp32Peacock_PLUS/blob/master/ScreenShots/Screenshot_2019-12-20-23-36-24-07.jpg?raw=true' width='200px'>
+
+# How to Install
+Click <a href='https://www.espressif.com/en/support/download/other-tools'>https://www.espressif.com/en/support/download/other-tools</a> to download ESpressIF Flash Download Tool
