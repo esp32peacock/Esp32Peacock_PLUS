@@ -1,6 +1,7 @@
 ![ESP32Peacock_PLUS_Logo](https://github.com/esp32peacock/Esp32Peacock_PLUS/blob/master/ESP32Peacock_Plus.png?raw=true)
 
 # Esp32Peacock_PLUS
+# non computer Python coding system
 Project ESP32Peacock_PLUS is extend version development kit for Micropython on ESP32. It allows for users to write code through the webserver on the ESP board.
 
 It is a binary one time upload type that allows for writing MicroPython code through the web without using USB connections. In addition, the display for terminal print and error code can be shown on the web as well.
