@@ -21,7 +21,7 @@ The whole operation relies on javascript interval web load for running code. Whi
 - switch AP mode of off set your home SSID name and password then click on Save and Reset
 - before Save you can click on OPEN IP SCAN CODE to use Scan Page search ip (or see on OLED) 
 - use ip with :8081 to reach Peacock
-- Beware not press ip_Scan button on Scan Page before Save
+- Beware not press ip_Scan button on Scan Page before Save on Wi-Fi Setup page
 - Suggest ip is 192.168.1.1 but if your home wifi base on other ip set put them in the text box
 - Scan code will scan on 192.168.1.(1-254) if text box set to 192.168.1.1
 
