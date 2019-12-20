@@ -39,3 +39,5 @@ brunswick99999@gmail.com
 Click <a href='https://www.espressif.com/en/support/download/other-tools'>https://www.espressif.com/en/support/download/other-tools</a> to download ESpressIF Flash Download Tool
 
 Download bin on this Git and Flash to ESP32 address 0x0000
+
+* There are 2 types of binary in this Git 1 for non OLED ESP32 and 1 for OLED ESP32 (TTGO T) 
