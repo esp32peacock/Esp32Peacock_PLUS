@@ -36,3 +36,4 @@ brunswick99999@gmail.com
 
 # How to Install
 Click <a href='https://www.espressif.com/en/support/download/other-tools'>https://www.espressif.com/en/support/download/other-tools</a> to download ESpressIF Flash Download Tool
+Download bin on this Git and Flash to ESP32 address 0x0000
