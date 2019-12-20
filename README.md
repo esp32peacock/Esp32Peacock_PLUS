@@ -17,6 +17,14 @@ The whole operation relies on javascript interval web load for running code. Whi
 - Pin ON/OFF button are instant function on_click="pin(pin_number,state 0/1)"
 - Html on web1 web2 tab are Materialize Css with 12 Columns instant
 
+- Need to lock on SSID name ESP32Peacock 192.168.4.1:8081 to setup Wi-Fi Setup
+- switch AP mode of off set your home SSID name and password then click on Save and Reset
+- before Save you can click on OPEN IP SCAN CODE to use Scan Page search ip (or see on OLED) 
+- use ip with :8081 to reach Peacock
+- Beware not press ip_Scan button on Scan Page before Save
+- Suggest ip is 192.168.1.1 but if your home wifi base on other ip set put them in the text box
+- Scan code will scan on 192.168.1.(1-254) if text box set to 192.168.1.1
+
 # Usage
 <a href='https://materializecss.com/'><img src='https://camo.githubusercontent.com/226e0b50bb6083d78ceffd4d03be2ad4d49757b7/68747470733a2f2f6a6f6e617468616e6b61626c616e2e6769746875622e696f2f696d616765732f6d6174657269616c697a652e706e67' width='100px'></a>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blank_button.svg/1200px-Blank_button.svg.png' width='50px'>
