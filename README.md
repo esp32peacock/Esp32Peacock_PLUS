@@ -2,7 +2,7 @@
 
 # Esp32Peacock_PLUS
 # non computer Python coding system
-Project ESP32Peacock_PLUS is extend version development kit for Micropython on ESP32. It allows for users to write code through the webserver on the ESP board.
+Project ESP32Peacock_PLUS is extended version of the development kit for Micropython on ESP32. It allows for users to write code through the webserver on the ESP board.
 
 It is a binary one time upload type that allows for writing MicroPython code through the web without using USB connections. In addition, the display for terminal print and error code can be shown on the web as well.
 
@@ -10,21 +10,21 @@ The whole operation relies on javascript interval web load for running code. Whi
 
 # Limits
 - Limit of each code length (setup/loop/web1/web2) is 2000 characters  
-- After press Factory Reset button you need to reload page
-- There is only 1 chart allow in this kit
-- chart_value is constant name of chart value
-- item is constant name of description value of chart
-- Pin ON/OFF button are instant function on_click="pin(pin_number,state 0/1)"
-- Html on web1 web2 tab are Materialize Css with 12 Columns instant
+- After pressing Factory Reset button, reloading the page is required
+- Limit of displaying 1 chart
+- chart_value is a constant name of chart value
+- item is a constant name description value of chart
+- Pin ON/OFF button are instant functions on_click="pin(pin_number,state 0/1)"
+- Html on web1 web2 tab are materialized by Css with 12 columns
 
 # ip 
-- Need to lock on SSID name ESP32Peacock 192.168.4.1:8081 to setup Wi-Fi Setup
-- switch AP mode to off and set your home SSID name and password then click on Save and Reset
-- before Save you can click on OPEN IP SCAN CODE to use Scan Page search ip (or see on OLED) 
-- use ip with :8081 to reach Peacock
-- Beware not press ip_Scan button on Scan Page before Save on Wi-Fi Setup page
-- Suggest ip is 192.168.1.1 but if your home wifi base on other ip set put them in the text box
-- Scan code will scan on 192.168.1.(1-254) if text box set to 192.168.1.1
+- SSID name is locked to ESP32Peacock 192.168.4.1:8081 to setup Wi-Fi Setup
+- Switch AP mode to off and set your home SSID name and password then click on Save and Reset
+- Before saving you can click on OPEN IP SCAN CODE to use Scan Page search ip (or see on OLED) 
+- Use ip with :8081 to reach Peacock
+- Beware do not press ip_Scan button on Scan Page before saving on Wi-Fi Setup page
+- Suggested ip is 192.168.1.1 but if your home wifi base is on another ip then put that ip in the text box
+- Scan code will only scan on 192.168.1.(1-254) if text box set to 192.168.1.1
 
 # Usage
 <a href='https://materializecss.com/'><img src='https://camo.githubusercontent.com/226e0b50bb6083d78ceffd4d03be2ad4d49757b7/68747470733a2f2f6a6f6e617468616e6b61626c616e2e6769746875622e696f2f696d616765732f6d6174657269616c697a652e706e67' width='100px'></a>
@@ -40,7 +40,7 @@ The whole operation relies on javascript interval web load for running code. Whi
 
 Copyright (c) 2020 Bunnavit Sawangpiriyakij
 
-brunswick99999@gmail.com
+brunswick.99999@gmail.com
 
 # ScreenShots
 <img src='https://github.com/esp32peacock/Esp32Peacock_PLUS/blob/master/ScreenShots/Screenshot_2019-12-20-23-33-31-98.jpg?raw=true' width='200px'><img src='https://github.com/esp32peacock/Esp32Peacock_PLUS/blob/master/ScreenShots/Screenshot_2019-12-20-23-34-29-01.jpg?raw=true' width='200px'><img src='https://github.com/esp32peacock/Esp32Peacock_PLUS/blob/master/ScreenShots/Screenshot_2019-12-20-23-36-18-93.jpg?raw=true' width='200px'><img src='https://github.com/esp32peacock/Esp32Peacock_PLUS/blob/master/ScreenShots/Screenshot_2019-12-20-23-36-24-07.jpg?raw=true' width='200px'>
