@@ -51,3 +51,7 @@ Click <a href='https://www.espressif.com/en/support/download/other-tools'>https:
 Download bin on this Git and Flash to ESP32 address 0x0000
 
 * There are 2 types of binary in this Git 1 for non OLED ESP32 and 1 for OLED ESP32 (TTGO T) 
+
+<img src='https://github.com/esp32peacock/Esp32Peacock_PLUS/blob/master/WiFi.png?raw=true'>
+- First time log into Esp32Peacock AP and browse with http://192.168.4.1:8081 
+- Then click on Wi-Fi Setup button fill SSID,password and switch off AP mode
