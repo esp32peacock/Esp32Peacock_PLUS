@@ -14,7 +14,7 @@ The whole operation relies on javascript interval web load for running code. Whi
 - Limit of displaying 1 chart
 - chart_value is a constant name of chart value
 - item is a constant name description value of chart
-- Pin ON/OFF button are instant functions on_click="pin(pin_number,state 0/1)"
+- Pin ON/OFF button are instant JavaScript functions on_click="pin(pin_number,state 0/1)"
 - Html on web1 web2 tab are materialized by Css with 12 columns
 
 # ip 
