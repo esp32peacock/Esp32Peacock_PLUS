@@ -55,3 +55,5 @@ Download bin on this Git and Flash to ESP32 address 0x0000
 <img src='https://github.com/esp32peacock/Esp32Peacock_PLUS/blob/master/WiFi.png?raw=true'>
 - First time log into Esp32Peacock AP and browse with http://192.168.4.1:8081 
 - Then click on Wi-Fi Setup button fill SSID,password and switch off AP mode
+
+<img src='https://github.com/esp32peacock/Esp32Peacock_PLUS/blob/master/Downloadtool.png?raw=true' width='300px'>
